@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Приклад локалі</string>
+    <string name="current_language">Українська</string>
+    <string name="open">Відчинено</string>
+    <string name="sample_text">Приклад тексту</string>
+</resources>
