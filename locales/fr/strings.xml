@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Exemple de paramètres régionaux </string>
     <string name="current_language">Français</string>
     <string name="open">Ouvrir</string>
     <string name="sample_text">Exemple de texte</string>
